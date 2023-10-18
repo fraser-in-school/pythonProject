@@ -1,0 +1,62 @@
+[
+  {
+    "customerId": 479252,
+    "tagIds": [276550,276551,276552,276553,276554,276555],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin.txt"
+  },
+  {
+    "customerId": 479252,
+    "tagIds": [276556,276557,276559,276558,276560,276561],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin_only_1173456292.txt"
+  },
+  {
+    "customerId": 479262,
+    "tagIds": [276624,276625,276626,276627,276628,276629],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin.txt"
+  },
+  {
+    "customerId": 479282,
+    "tagIds": [276562,276563,276573,276564,276574,276575],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin.txt"
+  },
+  {
+    "customerId": 479282,
+    "tagIds": [276565,276576,276578,276580,276582,276583],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin_only_1173456292.txt"
+  },
+  {
+    "customerId": 479272,
+    "tagIds": [276617,276618,276619,276620,276621,276622],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin_only_1173456292.txt"
+  },
+  {
+    "customerId": 479302,
+    "tagIds": [276590,276591,276592,276593,276594,276596],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin.txt"
+  },
+  {
+    "customerId": 479302,
+    "tagIds": [276597,276598,276599,276600,276601,276602],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin_only_1173456292.txt"
+  },
+  {
+    "customerId": 482192,
+    "tagIds": [276603,276604,276605,276606,276607,276609],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin.txt"
+  },
+  {
+    "customerId": 482192,
+    "tagIds": [276610,276611,276612,276613,176614,176615],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin_only_1173456292.txt"
+  },
+  {
+    "customerId": 482202,
+    "tagIds": [277775,277776,277777,277778,277779,277780],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin.txt"
+  },
+  {
+    "customerId": 482232,
+    "tagIds": [281815,281811,281812,281813,281814,282030],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin_only_1173456292.txt"
+  }
+]
