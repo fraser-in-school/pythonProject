@@ -1,0 +1,41 @@
+{
+    "id":"7985ddf1211f8380",
+    "ad":[
+        {
+            "sequence_id":1,
+            "creative_id":8708,
+            "advertiser_id":1,
+            "width":640,
+            "height":960,
+            "category":202202,
+            "type":1,
+            "landing_page":"https://****.com",
+            "target_url":[
+                "https://******.com/********"
+            ],
+            "monitor_urls":[
+                "https://******.com/********"
+                "https://******.com/********"
+            ],
+            "max_cpm":16769,
+            "is_cookie_matching":false,
+            "deeplink_info":{
+                "deeplink_url":"openapp.******://*******",
+                "fallback_url":"https://******.com/*****",
+                "fallback_type":1,
+                "app_bundle_id":"com.*******.app.mall"
+            },
+            "material_info":[
+                {
+                    "title":"*****标题",
+                    "material_url":"https://********.jpg"
+                }
+            ],
+            "budget_type":1,
+            "bid":200,
+            "charge_type":1
+
+        }
+    ],
+    "processing_time_ms":65
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "customerId": 479272,
+    "tagIds": [285209,285210,285211,285212,285213,285214],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin.txt"
+  },
+  {
+    "customerId": 482202,
+    "tagIds": [285215,285216,285217,285218,285219,285220],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin_only_1173456292.txt"
+  },
+  {
+    "customerId": 482212,
+    "tagIds": [285227,285228,285229,285230,285231,285232],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin.txt"
+  },
+  {
+    "customerId": 482212,
+    "tagIds": [285221,285222,285223,285224,285225,285226],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin_only_1173456292.txt"
+  },
+  {
+    "customerId": 482222,
+    "tagIds": [285234,285235,285236,285237,285238,285239],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin_only_1173456292.txt"
+  },
+  {
+    "customerId": 482222,
+    "tagIds": [285240,285241,285242,285243,285244,285245],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin.txt"
+  },
+  {
+    "customerId": 482232,
+    "tagIds": [285246,285247,285248,285249,285250,285251],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin.txt"
+  },
+  {
+    "customerId": 482242,
+    "tagIds": [285258,285259,285260,285261,285262,285263],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin_only_1173456292.txt"
+  },
+  {
+    "customerId": 482242,
+    "tagIds": [285252,285253,285254,285255,285256,285257],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin.txt"
+  },
+  {
+    "customerId": 482252,
+    "tagIds": [285288,285289,285290,285291,285292,285293],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin_only_1173456292.txt"
+  },
+  {
+    "customerId": 482252,
+    "tagIds": [285294,285295,285296,285297,285298,285299],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin.txt"
+  },
+  {
+    "customerId": 482262,
+    "tagIds": [285276,285277,285278,285279,285280,285281],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin_only_1173456292.txt"
+  },
+  {
+    "customerId": 482262,
+    "tagIds": [285282,285283,285284,285285,285286,285287],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin.txt"
+  },
+  {
+    "customerId": 482282,
+    "tagIds": [285270,285271,285272,285273,285274,285275],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin_only_1173456292.txt"
+  },
+  {
+    "customerId": 482282,
+    "tagIds": [285264,285265,285266,285267,285268,285269],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin.txt"
+  },
+  {
+    "customerId": 479262,
+    "tagIds": [285203,285204,285205,285206,285207,285208],
+    "file": "/data/apps/rta-package-upload/jd/$today$/oaidOrigin_only_1173456292.txt"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "7c29c4fa217125c9",
+  "ad": [
+    {
+      "sequence_id": 1,
+      "creative_id": 3354,
+      "advertiser_id": 1,
+      "width": 600,
+      "height": 300,
+      "category": 202202,
+      "type": 1,
+      "landing_page": "https://www.***.com",
+      "target_url": [
+        "https:// ******.com/****** "
+      ],
+      "monitor_urls": [
+        "https:// *******.com / ******",
+        " https:// *********.com / ******"
+      ],
+      "max_cpm": 267,
+      "is_cookie_matching": false,
+      "deeplink_info": {
+        "deeplink_url": "openapp.***://****",
+        "fallback_url": " https:// www.***.com / ******",
+        "fallback_type": 1,
+        "app_bundle_id": "com.******.app.mall"
+      },
+      "native_ad": {
+        "title": "****标题",
+        "desc": "*****描述",
+        "image": [
+          {
+            "url": "https://img-*** a.jpg",
+            "width": 600,
+            "height": 300
+          }
+        ],
+        "brand_name": "品牌名"
+      },
+      "budget_type": 0,
+      "bid": 0,
+      "charge_type": 0
+    }
+  ],
+  "processing_time_ms": 111
+}
